@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yancongtan-afk.github.io/reference-aknheo/sitemap.xml
